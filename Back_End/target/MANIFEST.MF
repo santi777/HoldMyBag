@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: HMG_Front_End
+Build-Jdk: 1.8.0_65
+Built-By: santiago_fergo
+Created-By: IntelliJ IDEA
+Main-Class: ${start-class}
+
